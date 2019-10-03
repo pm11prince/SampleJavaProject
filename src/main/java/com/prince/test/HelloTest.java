@@ -1,6 +1,6 @@
 package com.prince.test;
 
-public class Hellotest {
+public class HelloTest {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Test");
